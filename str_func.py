@@ -1,11 +1,11 @@
 def upper_string(input_string):
-    """convert string to Upper"""
+    """convert string to Upper NEW"""
     return input_string.upper()
 
 
 def capitalize_words(input_string):
     """
-    Capitalizes the first letter of each word in the input string.
+    Capitalizes the first letter of each word in the input string. NEW
 
     Args:
         input_string (str): The input string.
